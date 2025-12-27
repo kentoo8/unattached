@@ -14,6 +14,12 @@ assignees: kentoo8
 ### TO-BE
 - 
 
+## 仕様
+- 未確定
+  - aaa
+- 確定
+  - aaa
+
 ## Done定義
 - [ ] 
 
