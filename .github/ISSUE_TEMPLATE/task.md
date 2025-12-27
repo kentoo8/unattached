@@ -1,9 +1,9 @@
 ---
 name: task
-about: 標準的な実作業全般やToDo
+about: 標準的な実作業全般やToDo。
 title: ''
 labels: task
-assignees: ''
+assignees: kentoo8
 
 ---
 
